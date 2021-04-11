@@ -39,12 +39,12 @@ body {
     margin: 1%;
     text-align: center;
     font-weight: 300px;
-    /*-moz-appereance: textfield;*/
+    -moz-appearance: textfield;
 }
  /*mozilla bzw..*/
 .code::-webkit-outer-spin-button,
 .code::-webkit-inner-spin-button {
-    -webkit-appereance: none;
+    -webkit-appearance: none;
     margin: 0;
 }
 
@@ -69,11 +69,11 @@ body {
     }
 }
 
-.code {
+/*.code {
     font-size: 30px;
     height: 60px;
     max-width: 60px;
-}
+}*/
 
 
 
